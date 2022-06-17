@@ -12,4 +12,6 @@ How to train
   my_dataset.py
   utils.py
 
-2. run Colab.py
+2. downloag pretrained model put it in to pretrained
+
+3. run Colab.py
